@@ -15,6 +15,7 @@
 		F2F37B811C5B9D61009E033A /* HamburguesasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F37B801C5B9D61009E033A /* HamburguesasTests.swift */; };
 		F2F37B8C1C5B9D62009E033A /* HamburguesasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F37B8B1C5B9D62009E033A /* HamburguesasUITests.swift */; };
 		F2F37B9A1C5B9F1E009E033A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F2F37B991C5B9F1E009E033A /* .gitignore */; };
+		F2F37B9C1C5BA185009E033A /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F37B9B1C5BA185009E033A /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F2F37B8B1C5B9D62009E033A /* HamburguesasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamburguesasUITests.swift; sourceTree = "<group>"; };
 		F2F37B8D1C5B9D62009E033A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F2F37B991C5B9F1E009E033A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		F2F37B9B1C5BA185009E033A /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F2F37B741C5B9D61009E033A /* LaunchScreen.storyboard */,
 				F2F37B771C5B9D61009E033A /* Info.plist */,
 				F2F37B991C5B9F1E009E033A /* .gitignore */,
+				F2F37B9B1C5BA185009E033A /* Datos.swift */,
 			);
 			path = Hamburguesas;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			files = (
 				F2F37B6E1C5B9D61009E033A /* ViewController.swift in Sources */,
 				F2F37B6C1C5B9D61009E033A /* AppDelegate.swift in Sources */,
+				F2F37B9C1C5BA185009E033A /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
