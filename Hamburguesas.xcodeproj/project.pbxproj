@@ -14,6 +14,7 @@
 		F2F37B761C5B9D61009E033A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2F37B741C5B9D61009E033A /* LaunchScreen.storyboard */; };
 		F2F37B811C5B9D61009E033A /* HamburguesasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F37B801C5B9D61009E033A /* HamburguesasTests.swift */; };
 		F2F37B8C1C5B9D62009E033A /* HamburguesasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2F37B8B1C5B9D62009E033A /* HamburguesasUITests.swift */; };
+		F2F37B9A1C5B9F1E009E033A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F2F37B991C5B9F1E009E033A /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F2F37B871C5B9D62009E033A /* HamburguesasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HamburguesasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2F37B8B1C5B9D62009E033A /* HamburguesasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HamburguesasUITests.swift; sourceTree = "<group>"; };
 		F2F37B8D1C5B9D62009E033A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2F37B991C5B9F1E009E033A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F2F37B721C5B9D61009E033A /* Assets.xcassets */,
 				F2F37B741C5B9D61009E033A /* LaunchScreen.storyboard */,
 				F2F37B771C5B9D61009E033A /* Info.plist */,
+				F2F37B991C5B9F1E009E033A /* .gitignore */,
 			);
 			path = Hamburguesas;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2F37B9A1C5B9F1E009E033A /* .gitignore in Resources */,
 				F2F37B761C5B9D61009E033A /* LaunchScreen.storyboard in Resources */,
 				F2F37B731C5B9D61009E033A /* Assets.xcassets in Resources */,
 				F2F37B711C5B9D61009E033A /* Main.storyboard in Resources */,
@@ -348,7 +352,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -387,7 +391,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
